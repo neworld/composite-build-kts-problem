@@ -1,0 +1,5 @@
+buildscript {
+    dependencies {
+        classpath "com.vinted.plugin:versions"
+    }
+}
